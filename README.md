@@ -31,7 +31,7 @@ WHEN I test API POST and DELETE routes in Insomnia Core <br>
 ## Challenge Result
 
 ### Application Video Walkthrough
-[Application Walkthrough]()
+[Application Walkthrough](https://youtu.be/2BlEWzmQW5c)
 
 ### GitHub Repository
 [GitHub Repository URL](https://github.com/marioessig/social-network-api)
